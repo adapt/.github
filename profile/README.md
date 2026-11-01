@@ -2,7 +2,7 @@
 
 [Website][adapt] · [Careers][careers]
 
-![Deploy agents on your infrastructure](https://raw.githubusercontent.com/adaptcom/.github/main/profile/images/ascii.webp)
+![Deploy agents on your infrastructure](https://raw.githubusercontent.com/adapt/.github/main/profile/images/ascii.webp)
 
 _Looking for AgGateway’s ADAPT project? It has moved to [github.com/AgGateway-ADAPT]. Adapt is not affiliated with or a successor to that project._
 
